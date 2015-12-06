@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Socket Chat Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_text_hint">type your chat message !!!</string>
+    <string name="send">Send !!!</string>
+    <string name="edit_your_username">Type Your Custom Username!!!</string>
+</resources>
