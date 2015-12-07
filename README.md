@@ -3,7 +3,7 @@ Chatter Application!
 
 
 chatter application is of the most self-confident of my experiences!
-in this experience i've been using **[Socket.io](http://socket.io/)** in both side of client and server side, that's my work but not yet Done !!!
+in this experience i've been using **[Socket.io](http://socket.io/)** in both side of client and server side, that's my work but not yet done !!!
 
 ----------
 
