@@ -27,8 +27,7 @@ import java.net.URISyntaxException;
 
 public class MainActivity extends AppCompatActivity {
 
-//    public static final String BASE_URL = "http://192.168.1.4:3000/";
-    public static final String BASE_URL = "https://socketer.herokuapp.com/";
+
 
     private Socket mSocket;
     //    private Button button;
@@ -59,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         try {
-            mSocket = IO.socket(BASE_URL);
+            mSocket = IO.socket(MainApplication.BASE_URL);
         } catch (URISyntaxException e) {
             e.printStackTrace();
         }
